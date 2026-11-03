@@ -1,1 +1,14 @@
+# IDEs
+.idea
+.vscode
+*.iml
+
+node_modules
 __tests__/runner/*
+
+# Vim
+*~
+*.swp
+
+# IOS
+*.DS_Store
